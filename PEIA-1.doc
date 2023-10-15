@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#PEIA-1] Autenticação do usuário</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://dancastilho.atlassian.net/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [PEIA-1]&nbsp;<a href="https://dancastilho.atlassian.net/browse/PEIA-1">Autenticação do usuário</a>
+            <span class="subText">
+               Criado: 14/out/23                   &nbsp;Atualizado(a): 14/out/23
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Tarefas pendentes</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Projeto:</b></td>
+        <td width="80%"><a href="https://dancastilho.atlassian.net/secure/BrowseProject.jspa?id=10001">Páideia</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Componentes:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versões afetadas:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versões corrigidas:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Tipo:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Epic
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Prioridade:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Relator:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="70121:4d6b53a2-1f7a-4508-bb0f-eef90e17f14d"
+                id="word_reporter_70121:4d6b53a2-1f7a-4508-bb0f-eef90e17f14d"
+                href="https://dancastilho.atlassian.net/secure/ViewProfile.jspa?accountId=70121%3A4d6b53a2-1f7a-4508-bb0f-eef90e17f14d">
+                    Daniel Castilho
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Responsável:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="70121:4d6b53a2-1f7a-4508-bb0f-eef90e17f14d"
+                id="word_assignee_70121:4d6b53a2-1f7a-4508-bb0f-eef90e17f14d"
+                href="https://dancastilho.atlassian.net/secure/ViewProfile.jspa?accountId=70121%3A4d6b53a2-1f7a-4508-bb0f-eef90e17f14d">
+                    Daniel Castilho
+                </a>
+
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolução:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Não resolvido(s)
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votos:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Categorias:</b>
+        </td>
+        <td id="labels-10000-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            Nenhum
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Estimativa de trabalho restante:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconhecido
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Tempo gasto:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconhecido
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Estimativa original:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconhecido
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+    
+
+
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Rank:</b></td>
+                <td id="customfield_10019-10000-value" class="value" bgcolor="#ffffff" width="80%">      0|hzzzzz:
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Issue color:</b></td>
+                <td id="customfield_10017-10000-value" class="value" bgcolor="#ffffff" width="80%">      purple
+  </td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Descrição</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <h1><a name="Funcionalidade%3AGest%C3%A3odeAcesso"></a>Funcionalidade: Gestão de Acesso</h1>
+
+<h2><a name="Cen%C3%A1rio%3ASucessonaautentica%C3%A7%C3%A3odousu%C3%A1rio"></a>Cenário: Sucesso na autenticação do usuário</h2>
+
+<p>Dado que o usuário está na página de login<br/>
+Quando ele insere um e-mail e senha válidos<br/>
+E clica no botão "Entrar"<br/>
+Então ele deve ser redirecionado para sua área de perfil correspondente</p>
+
+<h2><a name="Cen%C3%A1rio%3AFalhanaautentica%C3%A7%C3%A3odevido%C3%A0senhainv%C3%A1lida"></a>Cenário: Falha na autenticação devido à senha inválida</h2>
+
+<p>Dado que o usuário está na página de login<br/>
+Quando ele insere um e-mail válido<br/>
+E insere uma senha inválida<br/>
+E clica no botão "Entrar"<br/>
+Então ele deve ver uma mensagem de erro indicando que a senha está incorreta</p>
+
+<h2><a name="Cen%C3%A1rio%3ARecupera%C3%A7%C3%A3odesenha"></a>Cenário: Recuperação de senha</h2>
+
+<p>Dado que o usuário está na página de login<br/>
+Quando ele clica no link "Esqueceu sua senha?"<br/>
+E insere um e-mail válido associado a uma conta<br/>
+E clica no botão "Recuperar senha"<br/>
+Então ele deve receber um e-mail com instruções para redefinir sua senha</p>
+
+<h2><a name="Cen%C3%A1rio%3ABloqueioap%C3%B3stentativasmalsucedidasdelogin"></a>Cenário: Bloqueio após tentativas malsucedidas de login</h2>
+
+<p>Dado que o usuário está na página de login<br/>
+E ele já fez 2 tentativas de login malsucedidas<br/>
+Quando ele faz uma terceira tentativa malsucedida<br/>
+Então sua conta é temporariamente bloqueada<br/>
+E ele vê uma mensagem informando sobre o bloqueio</p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+Gerado em Sat Oct 14 04:53:56 UTC 2023 por Daniel Castilho usando JIRA 1001.0.0-SNAPSHOT#100238-sha1:a5bd220dd233d6acf65fadffb1c24624314449af.
+
+</body>
+</html>
